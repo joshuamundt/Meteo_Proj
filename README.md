@@ -42,7 +42,7 @@ From Oregon Offshore Surface Mooring, wind speed & rain rate vs time
 ![](Meteo_pic/OOSM_R_W_Vs_Time.png)
 
 
-The monthly average of the wind speed and rain ratefor each site
+---------------------The monthly average of the wind speed and rain ratefor each site--------------------------
 
 (Left image) Oregon Shelf Surface Mooring----------- & ------------(Right Image) Oregon Offshore Surface Mooring
 
@@ -62,7 +62,7 @@ The images above indicate that both locations have similar average wind speed tr
 The images above show that the lowest average rain rate is in March 2019 and the highest average rain rate is in August 2018 for both locations. The biggest discrepency is shown in the early months, where Oregon Shelf's rain rate was significatly low compare to its counterpart. Both locations have the highest rain rate in Summer, followed by Fall, Winter, and Spring.
 
 
-Cross- correlation 
+----------------------------------------Cross- correlation -----------------------------------------------------
 
 ![](Meteo_pic/Wind_Speed.png)
 ![](Meteo_pic/Rain_Rate.png)
