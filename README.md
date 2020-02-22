@@ -1,6 +1,8 @@
-# Meteo_Proj
 
-  The purpose of this project is to request one year data from OOI website[1] for oregon self surface mooring [2] and oregon offshore surface mooring [3]. 
+
+  The purpose of this project is to request one year data from OOI website[1] for oregon self surface mooring [2] and oregon offshore surface mooring [3]. The bulk meteorology instrument package is selected to analyze the rain rate and wind speed with respect to time. 
+  
+ 
   
 ans the questions
 
