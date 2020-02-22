@@ -8,6 +8,14 @@ Project 2
   
 ans the questions
 
+From OSSM wind speed vs rain rate vs time
+
+![](images/OSSM_Wind_Speed_Vs_Time.png)
+![](images/OSSM_Rain_Rate_Vs_Time.png)
+
+
+
+
 conclusion
 
 
