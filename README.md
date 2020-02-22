@@ -20,10 +20,26 @@ From Oregon Offshore Surface Mooring, wind speed & rain rate vs time
 ![](Meteo_pic/OOSM_Wind_Speev_Vs_Time.png)
 ![](Meteo_pic/OOSM_Rain_Rate_Vs_Time.png)
 
-From Oregon Shelf Surface Mooring, wind speed & rain rate vs time
+(Left image) Oregon Shelf Surface Mooring & (Right Image) Oregon Offshore Surface Mooring
+1. Not Rainy and Not Windy
 
-![](Meteo_pic/OSSM_Wind_Speed_Vs_Time.png)
-![](Meteo_pic/OSSM_Rain_Rate_Vs_Time.png)
+![](Meteo_pic/OSSM_NR_NW_Vs_Time.png)
+![](Meteo_pic/OOSM_NR_NW_Vs_Time.png)
+
+2. Not Rainy and Windy
+
+![](Meteo_pic/OSSM_NR_W_Vs_Time.png)
+![](Meteo_pic/OOSM_NR_W_Vs_Time.png)
+
+3. Rainy and Not Windy
+
+![](Meteo_pic/OSSM_R_NW_Vs_Time.png)
+![](Meteo_pic/OOSM_R_NW_Vs_Time.png)
+
+4. Rainy and Windy
+
+![](Meteo_pic/OSSM_R_W_Vs_Time.png)
+![](Meteo_pic/OOSM_R_W_Vs_Time.png)
 
 
 
