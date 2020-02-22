@@ -17,7 +17,7 @@ From Oregon Shelf Surface Mooring, wind speed vs rain rate vs time
 
 From Oregon Offshore Surface Mooring, wind speed vs rain rate vs time
 
-![](Meteo_pic/OOSM_Wind_Speed_Vs_Time.png)
+![](Meteo_pic/OOSM_Wind_Speev_Vs_Time.png)
 ![](Meteo_pic/OOSM_Rain_Rate_Vs_Time.png)
 
 
