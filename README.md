@@ -17,7 +17,7 @@ From Oregon Offshore Surface Mooring, wind speed & rain rate vs time
 ![](Meteo_pic/OOSM_Wind_Speev_Vs_Time.png)
 ![](Meteo_pic/OOSM_Rain_Rate_Vs_Time.png)
 
-(Left image) Oregon Shelf Surface Mooring---------------- & -----------------(Right Image) Oregon Offshore Surface Mooring
+(Left image) Oregon Shelf Surface Mooring---------- & -----------(Right Image) Oregon Offshore Surface Mooring
 
 1. Not Rainy and Not Windy
 
@@ -42,7 +42,7 @@ From Oregon Offshore Surface Mooring, wind speed & rain rate vs time
 
 The monthly average of the wind speed and rain ratefor each site
 
-(Left image) Oregon Shelf Surface Mooring---------------- & -----------------(Right Image) Oregon Offshore Surface Mooring
+(Left image) Oregon Shelf Surface Mooring----------- & ------------(Right Image) Oregon Offshore Surface Mooring
 
 1. Average Wind Speed Vs. Months
 
