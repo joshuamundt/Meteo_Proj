@@ -64,6 +64,8 @@ The images above show that the lowest average rain rate is in March 2019 and the
 
 Cross- correlation 
 
+![](Meteo_pic/Wind_Speed.png)
+![](Meteo_pic/Rain_Rate.png)
 
 conclusion
 
