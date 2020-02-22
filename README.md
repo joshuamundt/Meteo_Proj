@@ -38,7 +38,7 @@ From Oregon Offshore Surface Mooring, wind speed & rain rate vs time
 
 4. Rainy and Windy
 
-![](Meteo_pic/OSSM_R_W_Vs_Time.png)
+![](Meteo_pic/OSSM_R_W_Vs_TIme.png)
 ![](Meteo_pic/OOSM_R_W_Vs_Time.png)
 
 
