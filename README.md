@@ -59,6 +59,9 @@ The monthly average of the wind speed and rain ratefor each site
 
 
 conclusion
+What pattern do you see? Explain.(1points)
+•Which month had the highest rain rate? (1points)
+Which month had the lowest rain rate?(1points)•Which month had the highest wind speed?(1points)Which month had the lowest wind speed?(1points)
 
  
 
