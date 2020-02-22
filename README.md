@@ -51,6 +51,7 @@ The monthly average of the wind speed and rain ratefor each site
 ![](Meteo_pic/OSSM_Avg_Wind_Speed_Vs_Months.png)
 ![](Meteo_pic/OOSM_Avg_Wind_Speed_Vs_Months.png)
 
+The images above indicate that both locations have similar average wind speed trend between May 2018 and May 2019. The lowest average wind speed is in August and the highest average wind speed is December for both sites. 
 
 
 2. Average Rain Rate Vs. Months
@@ -58,7 +59,7 @@ The monthly average of the wind speed and rain ratefor each site
 ![](Meteo_pic/OSSM_Avg_Rain_Rate_Vs_Months.png)
 ![](Meteo_pic/OOSM_Avg_Rain_Rate_Vs_Months.png)
 
-
+The images above show that the lowest average rain rate is in March 2019 and the highest average rain rate is in August 2018 for both locations. The biggest discrepency is shown in the early months, where Oregon Shelf's rain rate was significatly low compare to its counterpart.
 
 conclusion
 What pattern do you see? Explain.(1points)
