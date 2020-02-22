@@ -4,7 +4,7 @@ Joshua Mundt
 
 Project 2
 
-  The purpose of this project is to request one year data from OOI website[1] using M2M method [4] for oregon self surface mooring [2] and oregon offshore surface mooring [3]. The bulk meteorology instrument package is selected to analyze the rain rate and wind speed with respect to time. Also, this assignment will teach students how to append data and plot the corrololation [5] between two different sites in a span of one year to analyze wind speed and rain rate. Then, show which month has the highest/lowest rain rate and wind speed to make comparisoin between two sites.
+  The purpose of this project is to request one year data from OOI website[1] using M2M method [4] for oregon self surface mooring [2] and oregon offshore surface mooring [3]. The bulk meteorology instrument package is selected to analyze the rain rate and wind speed with respect to time. Also, this assignment will teach students how to append data and plot the cross- correlation [5] between two different sites in a span of one year to analyze wind speed and rain rate with respect to time. Then, show which month has the highest/lowest rain rate and wind speed to make comparisoin between two sites.
   
 For the images below, I considered not rainy if the rain rate is less than 5mm per hour and not windy,  if the wind speed is less than 2m/s.
   
@@ -61,10 +61,12 @@ The images above indicate that both locations have similar average wind speed tr
 
 The images above show that the lowest average rain rate is in March 2019 and the highest average rain rate is in August 2018 for both locations. The biggest discrepency is shown in the early months, where Oregon Shelf's rain rate was significatly low compare to its counterpart. Both locations have the highest rain rate in Summer, followed by Fall, Winter, and Spring.
 
+
+Cross- correlation 
+
+
 conclusion
-What pattern do you see? Explain.(1points)
-•Which month had the highest rain rate? (1points)
-Which month had the lowest rain rate?(1points)•Which month had the highest wind speed?(1points)Which month had the lowest wind speed?(1points)
+
 
  
 
