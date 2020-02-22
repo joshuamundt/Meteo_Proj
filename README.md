@@ -51,6 +51,8 @@ The monthly average of the wind speed and rain ratefor each site
 ![](Meteo_pic/OSSM_Avg_Wind_Speed_Vs_Months.png)
 ![](Meteo_pic/OOSM_Avg_Wind_Speed_Vs_Months.png)
 
+
+
 2. Average Rain Rate Vs. Months
 
 ![](Meteo_pic/OSSM_Avg_Rain_Rate_Vs_Months.png)
