@@ -10,15 +10,20 @@ Project 2
   
 ans the questions
 
-From Oregon Shelf Surface Mooring, wind speed vs rain rate vs time
+From Oregon Shelf Surface Mooring, wind speed & rain rate vs time
 
 ![](Meteo_pic/OSSM_Wind_Speed_Vs_Time.png)
 ![](Meteo_pic/OSSM_Rain_Rate_Vs_Time.png)
 
-From Oregon Offshore Surface Mooring, wind speed vs rain rate vs time
+From Oregon Offshore Surface Mooring, wind speed & rain rate vs time
 
 ![](Meteo_pic/OOSM_Wind_Speev_Vs_Time.png)
 ![](Meteo_pic/OOSM_Rain_Rate_Vs_Time.png)
+
+From Oregon Shelf Surface Mooring, wind speed & rain rate vs time
+
+![](Meteo_pic/OSSM_Wind_Speed_Vs_Time.png)
+![](Meteo_pic/OSSM_Rain_Rate_Vs_Time.png)
 
 
 
