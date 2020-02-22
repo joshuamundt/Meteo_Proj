@@ -1,5 +1,7 @@
 Joshua Mundt
+
 02/21/2020
+
 Project 2
 
   The purpose of this project is to request one year data from OOI website[1] for oregon self surface mooring [2] and oregon offshore surface mooring [3]. The bulk meteorology instrument package is selected to analyze the rain rate and wind speed with respect to time. 
@@ -8,10 +10,15 @@ Project 2
   
 ans the questions
 
-From OSSM wind speed vs rain rate vs time
+From Oregon Shelf Surface Mooring, wind speed vs rain rate vs time
 
 ![](Meteo_pic/OSSM_Wind_Speed_Vs_Time.png)
 ![](Meteo_pic/OSSM_Rain_Rate_Vs_Time.png)
+
+From Oregon Offshore Surface Mooring, wind speed vs rain rate vs time
+
+![](Meteo_pic/OOSM_Wind_Speed_Vs_Time.png)
+![](Meteo_pic/OOSM_Rain_Rate_Vs_Time.png)
 
 
 
