@@ -69,7 +69,7 @@ The images above show that the lowest average rain rate was in March 2019 and th
 
 When plotting cross-correlation between wind speed at both sites, as seen in the left figure, the maximum correlation was about 0.64, thus the lag did not occur. One location can be used as a model to estimate the wind speed for the other site, since the datasets were highly correlated.
 
-The right figure illustraed that the maximum correlation between rain rate at both locations was about 0.39. Hence, the lag occured at 55, which is equivalent to 20 days. Ths means oregon Shelf surface lags oregon offshore surface by 20 days.
+The right figure illustraed that the maximum correlation between rain rate at both locations was about 0.39. Hence, the lag occured at 55, which is equivalent to 20 days. This means oregon Shelf surface lags oregon offshore surface by 20 days.
 
 
 The data showed that Oregon Shelf Surface Mooring and Oregon Offshore Surface Mooring shared simlilar wind speed trend through out the year, where the maximum wind speed occured in the winter and minumum wind speed occured during the summer. However, when analyzing the rain rate of both location, the correlation between the two datasets are low and the plots suggested that both location received the maximum rain rate during summer time and the least rain rate in spring. There is no relationship between the time lag of wind speed and rain rate other than there was high correlation for the wind speed and 20 days lag for rain rate.
